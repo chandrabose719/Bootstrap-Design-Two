@@ -1,2 +1,2 @@
-# Single-Page-Website-02
-It is a Single page Website and used technologies are HTML, CSS3, Bootstrap.
+HTML, CSS, Bootstrap Design Page. 
+It is a framework related website and used technologies are HTML, CSS3, Bootstrap.
